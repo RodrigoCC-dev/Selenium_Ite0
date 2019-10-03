@@ -4,6 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="cl.usach.mingesoft.ChromeTest"/>
+      <class name="cl.usach.mingesoft.FirefoxTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

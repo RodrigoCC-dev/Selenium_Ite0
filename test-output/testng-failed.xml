@@ -5,16 +5,16 @@
     <classes>
       <class name="cl.usach.mingesoft.ChromeTest">
         <methods>
-          <include name="afterTest"/>
           <include name="crearPostulanteFront"/>
+          <include name="afterTest"/>
           <include name="beforeTest"/>
         </methods>
       </class> <!-- cl.usach.mingesoft.ChromeTest -->
       <class name="cl.usach.mingesoft.FirefoxTest">
         <methods>
-          <include name="afterTest"/>
           <include name="crearPostulanteFront"/>
           <include name="beforeTest"/>
+          <include name="afterTest"/>
         </methods>
       </class> <!-- cl.usach.mingesoft.FirefoxTest -->
     </classes>

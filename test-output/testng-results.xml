@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7361" started-at="2019-10-02T17:26:05 CLST" finished-at="2019-10-02T17:26:12 CLST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7361" started-at="2019-10-02T17:26:05 CLST" finished-at="2019-10-02T17:26:12 CLST">
+      <class name="cl.usach.mingesoft.ChromeTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:cl.usach.mingesoft.ChromeTest@731a74c]" name="beforeTest" is-config="true" duration-ms="3091" started-at="2019-10-02T17:26:05 CLST" finished-at="2019-10-02T17:26:08 CLST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="crearPostulanteFront()[pri:1, instance:cl.usach.mingesoft.ChromeTest@731a74c]" name="crearPostulanteFront" duration-ms="2889" started-at="2019-10-02T17:26:08 CLST" finished-at="2019-10-02T17:26:11 CLST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crearPostulanteFront -->
+        <test-method status="PASS" signature="iraCrear()[pri:2, instance:cl.usach.mingesoft.ChromeTest@731a74c]" name="iraCrear" duration-ms="366" started-at="2019-10-02T17:26:11 CLST" finished-at="2019-10-02T17:26:11 CLST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iraCrear -->
+        <test-method status="PASS" signature="iraListado()[pri:3, instance:cl.usach.mingesoft.ChromeTest@731a74c]" name="iraListado" duration-ms="225" started-at="2019-10-02T17:26:11 CLST" finished-at="2019-10-02T17:26:11 CLST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iraListado -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:cl.usach.mingesoft.ChromeTest@731a74c]" name="afterTest" is-config="true" duration-ms="762" started-at="2019-10-02T17:26:11 CLST" finished-at="2019-10-02T17:26:12 CLST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- cl.usach.mingesoft.ChromeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
